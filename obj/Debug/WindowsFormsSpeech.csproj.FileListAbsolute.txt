@@ -1,0 +1,11 @@
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeech\bin\Debug\WindowsFormsSpeech.exe.config
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeech\bin\Debug\WindowsFormsSpeech.exe
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeech\bin\Debug\WindowsFormsSpeech.pdb
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeech\obj\Debug\WindowsFormsSpeech.csproj.AssemblyReference.cache
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeech\obj\Debug\WindowsFormsSpeech.csproj.ResolveComReference.cache
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeech\obj\Debug\WindowsFormsSpeech.Properties.Resources.resources
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeech\obj\Debug\WindowsFormsSpeech.csproj.GenerateResource.cache
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeech\obj\Debug\WindowsFormsSpeech.csproj.CoreCompileInputs.cache
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeech\obj\Debug\WindowsFormsSpeech.exe
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeech\obj\Debug\WindowsFormsSpeech.pdb
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeech\obj\Debug\WindowsFormsSpeech.Form1.resources

@@ -1,0 +1,13 @@
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeach\bin\Debug\WindowsFormsSpeach.exe.config
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeach\bin\Debug\WindowsFormsSpeach.exe
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeach\bin\Debug\WindowsFormsSpeach.pdb
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeach\bin\Debug\VoiceTextWebAPI.Client.dll
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeach\obj\Debug\WindowsFormsSpeach.csproj.AssemblyReference.cache
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeach\obj\Debug\WindowsFormsSpeach.csproj.ResolveComReference.cache
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeach\obj\Debug\WindowsFormsSpeach.Form1.resources
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeach\obj\Debug\WindowsFormsSpeach.Properties.Resources.resources
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeach\obj\Debug\WindowsFormsSpeach.csproj.GenerateResource.cache
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeach\obj\Debug\WindowsFormsSpeach.csproj.CoreCompileInputs.cache
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeach\obj\Debug\WindowsF.E23C3C0E.Up2Date
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeach\obj\Debug\WindowsFormsSpeach.exe
+D:\CLANGUAGE实验\ConsoleAppMethodDemo02\WindowsFormsSpeach\obj\Debug\WindowsFormsSpeach.pdb
